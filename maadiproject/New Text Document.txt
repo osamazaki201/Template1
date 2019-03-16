@@ -1,0 +1,49 @@
+
+/**Start the About Page*/
+
+.breadcrumb-holder{
+    background-color: #f5f5f5;
+}
+.breadcrumb{
+    padding: 10px  0;
+    margin: 0;
+}
+.about-us{
+    margin-top: 50px;
+    padding: 70px 0;
+    direction: rtl;
+}
+.about-us h1{
+    font-weight: bold;
+    font-size: 52px;
+    letter-spacing: -2px;
+}
+.about-us hr{
+    width: 70%;
+}
+.about-us img{
+    width: 100%; 
+   
+}
+.about-us .header{
+    font-weight: bold;
+    margin-top: 50px;
+    margin-right: 20px;
+    color: #AAA; 
+   
+}
+.about-us ul li{
+    padding: 8px;
+    font-size: 25px;
+    border: 1px solid #EEE;
+    width: 600px;
+    margin: 0 -20px 10px 10px;
+
+}
+.about-us .container{
+    width: 1390px;
+}
+
+/*End the About Page*/
+.h1{font-size: 65px;
+    margin: 20px;}

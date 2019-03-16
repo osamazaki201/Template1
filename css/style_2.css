@@ -1,0 +1,140 @@
+/* Grid System start */
+.os{
+    background-color: #AAA;
+    color: black;
+    margin-bottom: 10px;
+    padding: 10px;
+}
+.new{
+    background-color: #333;
+    color: black;
+    margin-bottom: 10px;
+    padding: 10px;
+}
+.hr{
+    font-size: 30px;
+}
+.worning{
+    
+    background-color: #333;
+    color: red;
+    font-weight: bold;
+    margin-bottom: 10px;
+    padding: 10px;
+    font-size: 25px;
+}
+.product{
+    padding: 10px;
+    background-color: #333;
+    color: #fff;
+    margin-bottom: 10px;
+    min-height: 100px;
+}
+/* Grid System End */
+
+/*  start Navbar */
+body{
+    padding-top: 70px;
+    position: relative;
+   
+}
+.test{
+    height: 2000px;
+    background-color: #BBB;
+    line-height: 300px;
+    
+}
+
+/****** Start Overriding BooStrap ******/
+
+.navbar-fixed-top{
+    margin-bottom: 0px;
+}
+.navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:focus, .navbar-inverse .navbar-nav>.active>a:hover{
+    border-radius: 5px;
+    font-size: 25px;
+}
+.navbar-inverse .navbar-nav>li>a{
+        color: #fdfdfd;
+        color: #fdfdfd;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: 17px;
+}
+.navbar-inverse .navbar-brand{
+    color :#e6036a; 
+    font-size: 30px;
+    line-height: 25px;
+}
+.navbar-inverse .navbar-brand span{
+   color: aqua;
+}
+
+.dropdown-menu{
+    background-color: #222222;
+    border-top: 1px solid #00ffff;
+    
+}
+.dropdown-menu>li>a{
+    color: #fdfdfd;
+    padding: 6px 20px;
+     -webkit- transition: padding .5s ease;
+    -moz-transition: padding .5s ease;
+    -o- transition: padding .5s ease;
+    transition: padding .5s ease;
+}
+
+.dropdown-menu>li>a:focus,
+.dropdown-menu>li>a:hover {
+    
+    color: #100202;
+    text-decoration: none;
+    background-color: #00ffff;
+    border-radius: 5px;
+    padding-left: 25px;
+   
+}
+.dropdown-menu .divider{
+    background-color: #00ffff;
+}
+
+.navbar-right .dropdown-menu{
+    left: 0;
+    right: auto;
+}
+ li:hover{
+
+background-color: aqua;
+color: black;
+border-radius: 25px;
+color: black;
+}
+.navbar-inverse .navbar-nav>li>a:focus, .navbar-inverse .navbar-nav>li>a:hover{
+    color: black;
+}
+
+/*  End Navbar */
+
+
+/* Start Carousel */
+.carousel{
+    position: absolute;
+    top: 0px;
+}
+.container2{
+position: absolute;
+top: 0px;
+width: 980px;
+left: 130px;
+}
+.rigth{
+    margin-left: 270px;
+}
+
+/* End Carousel */
+
+
+
+/****** End Overriding BooStrap ******/
+
+
